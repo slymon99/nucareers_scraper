@@ -1,0 +1,1739 @@
+1536883513915	geckodriver	INFO	Listening on 127.0.0.1:54419
+1536883517006	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883518682	Marionette	INFO	Listening on port 54446
+1536883519026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883519054	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883519056	Marionette	DEBUG	[6442450945] Frame script registered
+1536883519069	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883519298	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883519601	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883519610	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+[Child 2656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2656, [Parent 8320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11004, 1536883569571	Marionette	INFO	Stopped listening on port 54446
+[GPU 6068, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536883575755	geckodriver	INFO	Listening on 127.0.0.1:54595
+1536883578886	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883580400	Marionette	INFO	Listening on port 54607
+1536883580917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883580947	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883580949	Marionette	DEBUG	[6442450945] Frame script registered
+1536883580960	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883581167	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883581428	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883581436	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883582517	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883582613	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883582614	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883583276	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/notLoggedIn.htm
+1536883583298	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/notLoggedIn.htm
+[Parent 17604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536883601954	Marionette	INFO	Stopped listening on port 54607
+[GPU 1724
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536883636210	geckodriver	INFO	Listening on 127.0.0.1:54831
+1536883639307	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883640835	Marionette	INFO	Listening on port 54844
+1536883641327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883641362	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883641366	Marionette	DEBUG	[6442450945] Frame script registered
+1536883641384	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883641452	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883641712	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883641720	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883642810	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883642950	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883642952	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883643656	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/notLoggedIn.htm
+1536883643687	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/notLoggedIn.htm
+[Parent 11728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9304,[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1340, Chrome_1536883645911	Marionette	INFO	Stopped listening on port 54844
+[GPU 2006
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536883649938	geckodriver	INFO	Listening on 127.0.0.1:54914
+1536883653066	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883654811	Marionette	INFO	Listening on port 54927
+1536883655080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883655112	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883655118	Marionette	DEBUG	[6442450945] Frame script registered
+1536883655132	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883655215	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883655489	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883655497	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883656510	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883656606	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883656607	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883657326	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/notLoggedIn.htm
+1536883657356	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/notLoggedIn.htm
+[Parent 17336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr[Parent 17336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14368, Chrome_ChildThread1536883659585	Marionette	INFO	Stopped listening on port 54927
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536883687394	geckodriver	INFO	Listening on 127.0.0.1:55043
+1536883690491	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883691969	Marionette	INFO	Listening on port 55056
+1536883692024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883692069	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883692090	Marionette	DEBUG	[6442450945] Frame script registered
+1536883692139	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883692408	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883692698	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883692708	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883693716	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883693757	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883693758	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883694448	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/notLoggedIn.htm
+1536883694470	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/notLoggedIn.htm
+[Parent 17376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9004, Chrome_Ch[Child 20024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20024, [Parent 17376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18164,1536883701779	Marionette	INFO	Stopped listening on port 55056
+[GPU 7108,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536883708012	geckodriver	INFO	Listening on 127.0.0.1:55138
+1536883711108	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883712591	Marionette	INFO	Listening on port 55150
+1536883712637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883712674	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883712676	Marionette	DEBUG	[6442450945] Frame script registered
+1536883712698	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883712976	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883713266	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883713275	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883723787	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login;jsessionid=fvfnpjy0praz4rm5sdx19lpk?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883723839	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login;jsessionid=fvfnpjy0praz4rm5sdx19lpk?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883723839	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login;jsessionid=fvfnpjy0praz4rm5sdx19lpk?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth
+1536883724610	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/notLoggedIn.htm
+1536883724636	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/notLoggedIn.htm
+[Parent 19460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Parent 19460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536883728044	Marionette	INFO	Stopped listening on port 55150
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536883739524	geckodriver	INFO	Listening on 127.0.0.1:55252
+1536883742659	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883744081	Marionette	INFO	Listening on port 55264
+1536883744175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883744211	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883744215	Marionette	DEBUG	[6442450945] Frame script registered
+1536883744262	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883744552	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883744852	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883744860	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+[Child 19808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19808, Ch[Parent 6932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/1536883796192	Marionette	INFO	Stopped listening on port 55264
+[GPU 3084, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+yId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883774744	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/notLoggedIn.htm
+1536883774766	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/notLoggedIn.htm
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Child 15032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15032, [Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16200, Chrome_ChildThrea1536883775927	Marionette	INFO	Stopped listening on port 55375
+[GPU 18304, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536883828263	geckodriver	INFO	Listening on 127.0.0.1:55549
+1536883831405	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883832890	Marionette	INFO	Listening on port 55561
+1536883832926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883832963	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883832965	Marionette	DEBUG	[6442450945] Frame script registered
+1536883832991	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883833348	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883833634	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883833642	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883835727	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883835962	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883835963	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883835971	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883835991	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883835993	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883839009	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883839259	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883839260	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883839497	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883839580	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883839644	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883839975	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883839978	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883840420	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883840532	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883841949	Marionette	DEBUG	[6442450953] Frame script loaded
+1536883841949	Marionette	DEBUG	[6442450953] Frame script registered
+1536883842180	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883844223	Marionette	DEBUG	[6442450956] Frame script loaded
+1536883844224	Marionette	DEBUG	[6442450956] Frame script registered
+1536883844440	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883846513	Marionette	DEBUG	[6442450959] Frame script loaded
+1536883846513	Marionette	DEBUG	[6442450959] Frame script registered
+1536883846728	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883848772	Marionette	DEBUG	[6442450962] Frame script loaded
+1536883848773	Marionette	DEBUG	[6442450962] Frame script registered
+1536883849000	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883851009	Marionette	DEBUG	[6442450965] Frame script loaded
+1536883851010	Marionette	DEBUG	[6442450965] Frame script registered
+1536883851227	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883852951	Marionette	DEBUG	[6442450968] Frame script loaded
+1536883852957	Marionette	DEBUG	[6442450968] Frame script registered
+1536883853178	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883854914	Marionette	DEBUG	[6442450971] Frame script loaded
+1536883854915	Marionette	DEBUG	[6442450971] Frame script registered
+1536883855131	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883856860	Marionette	DEBUG	[6442450974] Frame script loaded
+1536883856861	Marionette	DEBUG	[6442450974] Frame script registered
+1536883857082	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883859193	Marionette	DEBUG	[6442450977] Frame script loaded
+1536883859194	Marionette	DEBUG	[6442450977] Frame script registered
+1536883859408	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883861574	Marionette	DEBUG	[6442450980] Frame script loaded
+1536883861574	Marionette	DEBUG	[6442450980] Frame script registered
+1536883861816	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883863886	Marionette	DEBUG	[6442450983] Frame script loaded
+1536883863886	Marionette	DEBUG	[6442450983] Frame script registered
+1536883864113	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883866238	Marionette	DEBUG	[6442450986] Frame script loaded
+1536883866239	Marionette	DEBUG	[6442450986] Frame script registered
+1536883866459	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883868520	Marionette	DEBUG	[6442450989] Frame script loaded
+1536883868521	Marionette	DEBUG	[6442450989] Frame script registered
+1536883868736	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883870986	Marionette	DEBUG	[6442450992] Frame script loaded
+1536883870987	Marionette	DEBUG	[6442450992] Frame script registered
+1536883871207	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883873236	Marionette	DEBUG	[6442450995] Frame script loaded
+1536883873237	Marionette	DEBUG	[6442450995] Frame script registered
+1536883873453	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://orbisv4head.blob.core.windows.net/core/scripts/jquery/jquery-1.9.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1536883874294	Marionette	DEBUG	[2147483652] Frame script loaded
+1536883876317	geckodriver	INFO	Listening on 127.0.0.1:56425
+1536883879412	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536883880892	Marionette	INFO	Listening on port 56437
+1536883880940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536883880979	Marionette	DEBUG	[6442450945] Frame script loaded
+1536883880987	Marionette	DEBUG	[6442450945] Frame script registered
+1536883881056	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536883881322	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536883881725	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883881737	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883883843	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883884095	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883884096	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883884103	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883884115	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883884117	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883887127	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883887258	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883887262	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883887510	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883887673	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883887717	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883888010	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883888013	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883888519	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883888635	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883890070	Marionette	DEBUG	[6442450953] Frame script loaded
+1536883890070	Marionette	DEBUG	[6442450953] Frame script registered
+1536883890305	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883892275	Marionette	DEBUG	[6442450956] Frame script loaded
+1536883892276	Marionette	DEBUG	[6442450956] Frame script registered
+1536883892499	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883894518	Marionette	DEBUG	[6442450959] Frame script loaded
+1536883894518	Marionette	DEBUG	[6442450959] Frame script registered
+1536883894751	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883896792	Marionette	DEBUG	[6442450962] Frame script loaded
+1536883896792	Marionette	DEBUG	[6442450962] Frame script registered
+1536883897018	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883898797	Marionette	DEBUG	[6442450965] Frame script loaded
+1536883898797	Marionette	DEBUG	[6442450965] Frame script registered
+1536883899023	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883901082	Marionette	DEBUG	[6442450968] Frame script loaded
+1536883901084	Marionette	DEBUG	[6442450968] Frame script registered
+1536883901314	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883903341	Marionette	DEBUG	[6442450971] Frame script loaded
+1536883903342	Marionette	DEBUG	[6442450971] Frame script registered
+1536883903572	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883905733	Marionette	DEBUG	[6442450974] Frame script loaded
+1536883905734	Marionette	DEBUG	[6442450974] Frame script registered
+1536883905951	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883907972	Marionette	DEBUG	[6442450977] Frame script loaded
+1536883907973	Marionette	DEBUG	[6442450977] Frame script registered
+1536883908189	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883910419	Marionette	DEBUG	[6442450980] Frame script loaded
+1536883910420	Marionette	DEBUG	[6442450980] Frame script registered
+1536883910639	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883912692	Marionette	DEBUG	[6442450983] Frame script loaded
+1536883912692	Marionette	DEBUG	[6442450983] Frame script registered
+1536883912911	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883914697	Marionette	DEBUG	[6442450986] Frame script loaded
+1536883914698	Marionette	DEBUG	[6442450986] Frame script registered
+1536883914915	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 4600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536884880469	Marionette	INFO	Stopped listening on port 56437
+[GPU 10692, Chrome_ChildThread] WARNING: pip
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vice=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883951725	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883951940	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883951941	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536883951952	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883951973	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883951975	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536883955017	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883955198	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883955200	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536883956299	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883956387	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883956485	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883956843	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883956846	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883957737	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883957814	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536883959162	Marionette	DEBUG	[6442450953] Frame script loaded
+1536883959163	Marionette	DEBUG	[6442450953] Frame script registered
+1536883959387	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883961660	Marionette	DEBUG	[6442450956] Frame script loaded
+1536883961661	Marionette	DEBUG	[6442450956] Frame script registered
+1536883961877	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883963982	Marionette	DEBUG	[6442450959] Frame script loaded
+1536883963983	Marionette	DEBUG	[6442450959] Frame script registered
+1536883964196	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883966444	Marionette	DEBUG	[6442450962] Frame script loaded
+1536883966445	Marionette	DEBUG	[6442450962] Frame script registered
+1536883966662	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883968879	Marionette	DEBUG	[6442450965] Frame script loaded
+1536883968879	Marionette	DEBUG	[6442450965] Frame script registered
+1536883969106	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883971476	Marionette	DEBUG	[6442450968] Frame script loaded
+1536883971480	Marionette	DEBUG	[6442450968] Frame script registered
+1536883971713	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883973713	Marionette	DEBUG	[6442450971] Frame script loaded
+1536883973713	Marionette	DEBUG	[6442450971] Frame script registered
+1536883973933	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883976008	Marionette	DEBUG	[6442450974] Frame script loaded
+1536883976008	Marionette	DEBUG	[6442450974] Frame script registered
+1536883976225	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883978523	Marionette	DEBUG	[6442450977] Frame script loaded
+1536883978524	Marionette	DEBUG	[6442450977] Frame script registered
+1536883978739	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883980891	Marionette	DEBUG	[6442450980] Frame script loaded
+1536883980891	Marionette	DEBUG	[6442450980] Frame script registered
+1536883981122	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883983392	Marionette	DEBUG	[6442450983] Frame script loaded
+1536883983393	Marionette	DEBUG	[6442450983] Frame script registered
+1536883983621	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883985383	Marionette	DEBUG	[6442450986] Frame script loaded
+1536883985384	Marionette	DEBUG	[6442450986] Frame script registered
+1536883985599	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883987601	Marionette	DEBUG	[6442450989] Frame script loaded
+1536883987601	Marionette	DEBUG	[6442450989] Frame script registered
+1536883987820	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883989967	Marionette	DEBUG	[6442450992] Frame script loaded
+1536883989967	Marionette	DEBUG	[6442450992] Frame script registered
+1536883990186	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883992065	Marionette	DEBUG	[6442450995] Frame script loaded
+1536883992065	Marionette	DEBUG	[6442450995] Frame script registered
+1536883992291	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883994053	Marionette	DEBUG	[6442450998] Frame script loaded
+1536883994058	Marionette	DEBUG	[6442450998] Frame script registered
+1536883994281	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883996243	Marionette	DEBUG	[6442451001] Frame script loaded
+1536883996244	Marionette	DEBUG	[6442451001] Frame script registered
+1536883996468	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536883998244	Marionette	DEBUG	[6442451004] Frame script loaded
+1536883998247	Marionette	DEBUG	[6442451004] Frame script registered
+1536883998475	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884000513	Marionette	DEBUG	[6442451007] Frame script loaded
+1536884000514	Marionette	DEBUG	[6442451007] Frame script registered
+1536884000738	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884002422	Marionette	DEBUG	[6442451010] Frame script loaded
+1536884002422	Marionette	DEBUG	[6442451010] Frame script registered
+1536884002640	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884004461	Marionette	DEBUG	[6442451013] Frame script loaded
+1536884004461	Marionette	DEBUG	[6442451013] Frame script registered
+1536884004687	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884006527	Marionette	DEBUG	[6442451016] Frame script loaded
+1536884006531	Marionette	DEBUG	[6442451016] Frame script registered
+1536884006758	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884008619	Marionette	DEBUG	[6442451019] Frame script loaded
+1536884008620	Marionette	DEBUG	[6442451019] Frame script registered
+1536884008838	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884011054	Marionette	DEBUG	[6442451022] Frame script loaded
+1536884011055	Marionette	DEBUG	[6442451022] Frame script registered
+1536884011284	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884013131	Marionette	DEBUG	[6442451025] Frame script loaded
+1536884013132	Marionette	DEBUG	[6442451025] Frame script registered
+1536884013351	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884015201	Marionette	DEBUG	[6442451028] Frame script loaded
+1536884015201	Marionette	DEBUG	[6442451028] Frame script registered
+1536884015418	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884017243	Marionette	DEBUG	[6442451031] Frame script loaded
+1536884017246	Marionette	DEBUG	[6442451031] Frame script registered
+1536884017474	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884019577	Marionette	DEBUG	[6442451034] Frame script loaded
+1536884019578	Marionette	DEBUG	[6442451034] Frame script registered
+1536884019794	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884021657	Marionette	DEBUG	[6442451037] Frame script loaded
+1536884021662	Marionette	DEBUG	[6442451037] Frame script registered
+1536884021886	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884024077	Marionette	DEBUG	[6442451040] Frame script loaded
+1536884024078	Marionette	DEBUG	[6442451040] Frame script registered
+1536884024294	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://orbisv4head.blob.core.windows.net/core/scripts/jquery/jquery-1.9.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1536884026114	Marionette	DEBUG	[6442451043] Frame script loaded
+1536884026119	Marionette	DEBUG	[6442451043] Frame script registered
+1536884026343	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884028126	Marionette	DEBUG	[6442451046] Frame script loaded
+1536884028130	Marionette	DEBUG	[6442451046] Frame script registered
+1536884028354	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://nucareers.northeastern.edu/core/orbis/scripts/orbis-336.js, line 1686: NS_ERROR_UNEXPECTED: 
+1536884030206	Marionette	DEBUG	[6442451049] Frame script loaded
+1536884030207	Marionette	DEBUG	[6442451049] Frame script registered
+1536884030425	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884032241	Marionette	DEBUG	[6442451052] Frame script loaded
+1536884032242	Marionette	DEBUG	[6442451052] Frame script registered
+1536884032457	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884034324	Marionette	DEBUG	[6442451055] Frame script loaded
+1536884034325	Marionette	DEBUG	[6442451055] Frame script registered
+1536884034540	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884036494	Marionette	DEBUG	[6442451058] Frame script loaded
+1536884036495	Marionette	DEBUG	[6442451058] Frame script registered
+1536884036723	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884038442	Marionette	DEBUG	[6442451061] Frame script loaded
+1536884038446	Marionette	DEBUG	[6442451061] Frame script registered
+1536884038674	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884040692	Marionette	DEBUG	[6442451064] Frame script loaded
+1536884040693	Marionette	DEBUG	[6442451064] Frame script registered
+1536884040908	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884043132	Marionette	DEBUG	[6442451067] Frame script loaded
+1536884043136	Marionette	DEBUG	[6442451067] Frame script registered
+1536884043360	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884045428	Marionette	DEBUG	[6442451070] Frame script loaded
+1536884045429	Marionette	DEBUG	[6442451070] Frame script registered
+1536884045646	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884047730	Marionette	DEBUG	[6442451073] Frame script loaded
+1536884047730	Marionette	DEBUG	[6442451073] Frame script registered
+1536884047953	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884049960	Marionette	DEBUG	[6442451076] Frame script loaded
+1536884049962	Marionette	DEBUG	[6442451076] Frame script registered
+1536884050186	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884052359	Marionette	DEBUG	[6442451079] Frame script loaded
+1536884052360	Marionette	DEBUG	[6442451079] Frame script registered
+1536884052577	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884054801	Marionette	DEBUG	[6442451082] Frame script loaded
+1536884054801	Marionette	DEBUG	[6442451082] Frame script registered
+1536884055033	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884057028	Marionette	DEBUG	[6442451085] Frame script loaded
+1536884057029	Marionette	DEBUG	[6442451085] Frame script registered
+1536884057250	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884059338	Marionette	DEBUG	[6442451088] Frame script loaded
+1536884059338	Marionette	DEBUG	[6442451088] Frame script registered
+1536884059559	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884061718	Marionette	DEBUG	[6442451091] Frame script loaded
+1536884061719	Marionette	DEBUG	[6442451091] Frame script registered
+1536884061943	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884063706	Marionette	DEBUG	[6442451094] Frame script loaded
+1536884063707	Marionette	DEBUG	[6442451094] Frame script registered
+1536884063925	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884066043	Marionette	DEBUG	[6442451097] Frame script loaded
+1536884066044	Marionette	DEBUG	[6442451097] Frame script registered
+1536884066267	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884068029	Marionette	DEBUG	[6442451100] Frame script loaded
+1536884068032	Marionette	DEBUG	[6442451100] Frame script registered
+1536884068261	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884070006	Marionette	DEBUG	[6442451103] Frame script loaded
+1536884070016	Marionette	DEBUG	[6442451103] Frame script registered
+1536884070237	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884072422	Marionette	DEBUG	[6442451106] Frame script loaded
+1536884072423	Marionette	DEBUG	[6442451106] Frame script registered
+1536884072638	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884074722	Marionette	DEBUG	[6442451109] Frame script loaded
+1536884074722	Marionette	DEBUG	[6442451109] Frame script registered
+1536884074938	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884076965	Marionette	DEBUG	[6442451112] Frame script loaded
+1536884076966	Marionette	DEBUG	[6442451112] Frame script registered
+1536884077188	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884079299	Marionette	DEBUG	[6442451115] Frame script loaded
+1536884079299	Marionette	DEBUG	[6442451115] Frame script registered
+1536884079516	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884081754	Marionette	DEBUG	[6442451118] Frame script loaded
+1536884081757	Marionette	DEBUG	[6442451118] Frame script registered
+1536884081980	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884084237	Marionette	DEBUG	[6442451121] Frame script loaded
+1536884084238	Marionette	DEBUG	[6442451121] Frame script registered
+1536884084461	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884086504	Marionette	DEBUG	[6442451124] Frame script loaded
+1536884086505	Marionette	DEBUG	[6442451124] Frame script registered
+1536884086723	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884088698	Marionette	DEBUG	[6442451127] Frame script loaded
+1536884088698	Marionette	DEBUG	[6442451127] Frame script registered
+1536884088919	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884090928	Marionette	DEBUG	[6442451130] Frame script loaded
+1536884090932	Marionette	DEBUG	[6442451130] Frame script registered
+1536884091157	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884093210	Marionette	DEBUG	[6442451133] Frame script loaded
+1536884093210	Marionette	DEBUG	[6442451133] Frame script registered
+1536884093432	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884095493	Marionette	DEBUG	[6442451136] Frame script loaded
+1536884095493	Marionette	DEBUG	[6442451136] Frame script registered
+1536884095719	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884097821	Marionette	DEBUG	[6442451139] Frame script loaded
+1536884097822	Marionette	DEBUG	[6442451139] Frame script registered
+1536884098040	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884100108	Marionette	DEBUG	[6442451142] Frame script loaded
+1536884100109	Marionette	DEBUG	[6442451142] Frame script registered
+1536884100326	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884102451	Marionette	DEBUG	[6442451145] Frame script loaded
+1536884102454	Marionette	DEBUG	[6442451145] Frame script registered
+1536884102685	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884104746	Marionette	DEBUG	[6442451148] Frame script loaded
+1536884104747	Marionette	DEBUG	[6442451148] Frame script registered
+1536884104972	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884106761	Marionette	DEBUG	[6442451151] Frame script loaded
+1536884106762	Marionette	DEBUG	[6442451151] Frame script registered
+1536884106979	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884109035	Marionette	DEBUG	[6442451154] Frame script loaded
+1536884109036	Marionette	DEBUG	[6442451154] Frame script registered
+1536884109259	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884111245	Marionette	DEBUG	[6442451157] Frame script loaded
+1536884111249	Marionette	DEBUG	[6442451157] Frame script registered
+1536884111475	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884113572	Marionette	DEBUG	[6442451160] Frame script loaded
+1536884113572	Marionette	DEBUG	[6442451160] Frame script registered
+1536884113791	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884115855	Marionette	DEBUG	[6442451163] Frame script loaded
+1536884115857	Marionette	DEBUG	[6442451163] Frame script registered
+1536884116080	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884118228	Marionette	DEBUG	[6442451166] Frame script loaded
+1536884118230	Marionette	DEBUG	[6442451166] Frame script registered
+1536884118453	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884120461	Marionette	DEBUG	[6442451169] Frame script loaded
+1536884120465	Marionette	DEBUG	[6442451169] Frame script registered
+1536884120690	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884122469	Marionette	DEBUG	[6442451172] Frame script loaded
+1536884122472	Marionette	DEBUG	[6442451172] Frame script registered
+1536884122699	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884124758	Marionette	DEBUG	[6442451175] Frame script loaded
+1536884124759	Marionette	DEBUG	[6442451175] Frame script registered
+1536884124982	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884127117	Marionette	DEBUG	[6442451178] Frame script loaded
+1536884127118	Marionette	DEBUG	[6442451178] Frame script registered
+1536884127342	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884129390	Marionette	DEBUG	[6442451181] Frame script loaded
+1536884129391	Marionette	DEBUG	[6442451181] Frame script registered
+1536884129613	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884131825	Marionette	DEBUG	[6442451184] Frame script loaded
+1536884131826	Marionette	DEBUG	[6442451184] Frame script registered
+1536884132050	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884134067	Marionette	DEBUG	[6442451187] Frame script loaded
+1536884134068	Marionette	DEBUG	[6442451187] Frame script registered
+1536884134287	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536884136341	Marionette	DEBUG	[6442451190] Frame script loaded
+1536884136341	Marionette	DEBUG	[6442451190] Frame script registered
+1536884136565	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536884880499	Marionette	INFO	Stopped listening on port 57194
+[GPU 19504
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+6442450945] Received DOM event pagehide for about:blank
+1536884742943	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884742958	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884745064	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884745426	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884745427	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884745441	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884745464	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884745466	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884748482	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884748746	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884748748	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884748980	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884749080	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884749160	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884749832	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884749833	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884750307	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884750419	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+[Parent 11796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[Parent 11796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536884880571	Marionette	INFO	Stopped listening on port 62046
+[GPU 183
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+onversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884757693	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 18892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536884757890	Marionette	INFO	Stopped listening on port 62160
+[GPU 17044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536884759701	geckodriver::marionette	ERROR	Failed to kill browser process
+1536884764893	geckodriver	INFO	Listening on 127.0.0.1:62208
+1536884767993	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536884769629	Marionette	INFO	Listening on port 62221
+1536884770058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536884770110	Marionette	DEBUG	[6442450945] Frame script loaded
+1536884770123	Marionette	DEBUG	[6442450945] Frame script registered
+1536884770141	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536884770364	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536884770677	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884770688	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884772773	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884773028	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884773029	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884773036	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884773044	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884773045	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884776065	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884776208	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884776210	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884776471	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884776600	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884776647	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884777058	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884777059	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884777490	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884777603	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+[Parent 9596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10300, Ch1536884880557	Marionette	INFO	Stopped listening on port 62221
+[GPU 19256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+astern.edu%2Fshibboleth#login
+1536884796512	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884796513	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884796518	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884796529	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884796530	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884799546	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884799781	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884799783	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884800049	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884800159	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884800200	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884800527	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884800529	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884800940	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884801049	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884802420	Marionette	DEBUG	[6442450953] Frame script loaded
+1536884802420	Marionette	DEBUG	[6442450953] Frame script registered
+1536884802640	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 9664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 9088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/1536884880466	Marionette	INFO	Stopped listening on port 62345
+[GPU 18292, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884824985	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884827068	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884827375	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884827376	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884827389	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884827405	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884827407	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884830417	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884830589	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884830591	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884830909	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884830974	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884831080	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884831526	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884831529	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884831896	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884832042	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884833499	Marionette	DEBUG	[6442450953] Frame script loaded
+1536884833500	Marionette	DEBUG	[6442450953] Frame script registered
+1536884833727	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 20820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Parent 10480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536884880686	Marionette	INFO	Stopped listening on port 62488
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+50287	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536884850551	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884850560	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884852656	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884852903	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884852905	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884852920	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884852938	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884852939	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884855943	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884856187	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884856191	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884856436	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884856517	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884856602	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884856992	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884856993	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884857573	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884857676	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884859095	Marionette	DEBUG	[6442450953] Frame script loaded
+1536884859097	Marionette	DEBUG	[6442450953] Frame script registered
+1536884859323	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 20740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 20740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Child 15192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536884880635	Marionette	INFO	Stopped listening on port 62623
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536884930108	geckodriver	INFO	Listening on 127.0.0.1:62844
+1536884933255	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536884934870	Marionette	INFO	Listening on port 62857
+1536884935274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536884935305	Marionette	DEBUG	[6442450945] Frame script loaded
+1536884935307	Marionette	DEBUG	[6442450945] Frame script registered
+1536884935322	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536884935523	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536884935849	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884935857	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884937953	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884938346	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884938347	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536884938363	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884938386	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884938387	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536884941389	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884942010	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884942011	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536884942246	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884942321	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884942378	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884942758	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884942760	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884943166	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536884943260	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+[Parent 20840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9612, C[Parent 20840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2132, Chrome_ChildThread] WAR1536884957577	Marionette	INFO	Stopped listening on port 62857
+[GPU 11996,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536885164512	geckodriver	INFO	Listening on 127.0.0.1:63285
+1536885167587	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536885169058	Marionette	INFO	Listening on port 63297
+1536885169114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885169151	Marionette	DEBUG	[6442450945] Frame script loaded
+1536885169159	Marionette	DEBUG	[6442450945] Frame script registered
+1536885169184	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536885169486	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536885169797	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885169806	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885171875	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885172099	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885172099	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885172104	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885172110	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885172113	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885175131	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885175301	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885175302	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885175512	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885175574	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885175635	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885176014	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885176016	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885176413	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885176531	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885178038	Marionette	DEBUG	[6442450953] Frame script loaded
+1536885178039	Marionette	DEBUG	[6442450953] Frame script registered
+1536885178281	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 22008, Gecko_IOThread] WARNING: pipe error: 109: fil1536885187565	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536885189038	Marionette	INFO	Listening on port 63479
+1536885189103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885189129	Marion[Parent 22008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536885195156	Marionette	INFO	Stopped listening on port 63297
+[GPU 22288
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885192135	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885192136	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885192145	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885192149	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885192151	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885195144	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885195292	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885195293	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885195542	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885195634	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885195690	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885196024	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885196026	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885196413	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885196552	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885197981	Marionette	DEBUG	[6442450953] Frame script loaded
+1536885197982	Marionette	DEBUG	[6442450953] Frame script registered
+1536885198200	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885200230	Marionette	DEBUG	[6442450956] Frame script loaded
+1536885200232	Marionette	DEBUG	[6442450956] Frame script registered
+1536885200455	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885202447	Marionette	DEBUG	[6442450959] Frame script loaded
+1536885202448	Marionette	DEBUG	[6442450959] Frame script registered
+1536885202681	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885204710	Marionette	DEBUG	[6442450962] Frame script loaded
+1536885204710	Marionette	DEBUG	[6442450962] Frame script registered
+1536885204949	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885206936	Marionette	DEBUG	[6442450965] Frame script loaded
+1536885206937	Marionette	DEBUG	[6442450965] Frame script registered
+1536885207177	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885209137	Marionette	DEBUG	[6442450968] Frame script loaded
+1536885209138	Marionette	DEBUG	[6442450968] Frame script registered
+1536885209365	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885211320	Marionette	DEBUG	[6442450971] Frame script loaded
+1536885211323	Marionette	DEBUG	[6442450971] Frame script registered
+1536885211559	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885213578	Marionette	DEBUG	[6442450974] Frame script loaded
+1536885213578	Marionette	DEBUG	[6442450974] Frame script registered
+1536885213807	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885215763	Marionette	DEBUG	[6442450977] Frame script loaded
+1536885215763	Marionette	DEBUG	[6442450977] Frame script registered
+1536885215996	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885218148	Marionette	DEBUG	[6442450980] Frame script loaded
+1536885218148	Marionette	DEBUG	[6442450980] Frame script registered
+1536885218371	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885220582	Marionette	DEBUG	[6442450983] Frame script loaded
+1536885220583	Marionette	DEBUG	[6442450983] Frame script registered
+1536885220813	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 21236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14816, Chrome[Parent 21236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17816, C[Parent 21236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 166961536885281659	Marionette	INFO	Stopped listening on port 63479
+[GPU 22452,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+neuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885257347	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885257349	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885257362	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885257385	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885257386	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885260387	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885260564	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885260565	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885260806	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885260891	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885260961	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885261542	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885261544	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885262035	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885262133	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885263549	Marionette	DEBUG	[6442450953] Frame script loaded
+1536885263550	Marionette	DEBUG	[6442450953] Frame script registered
+1536885263800	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885266001	Marionette	DEBUG	[6442450956] Frame script loaded
+1536885266002	Marionette	DEBUG	[6442450956] Frame script registered
+1536885266218	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885268313	Marionette	DEBUG	[6442450959] Frame script loaded
+1536885268318	Marionette	DEBUG	[6442450959] Frame script registered
+1536885268539	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19836, 1536885276995	Marionette	INFO	Stopped listening on port 64331
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536885335114	geckodriver	INFO	Listening on 127.0.0.1:64721
+1536885338230	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536885339643	Marionette	INFO	Listening on port 64733
+1536885339761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885339792	Marionette	DEBUG	[6442450945] Frame script loaded
+1536885339793	Marionette	DEBUG	[6442450945] Frame script registered
+1536885339824	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536885340102	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536885340399	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885340408	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885342511	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885342775	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885342776	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885342791	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885342811	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885342813	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885345815	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885346238	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885346240	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885346466	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885346636	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885346682	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885347131	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885347133	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885347680	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885347829	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885349373	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885433003	geckodriver	INFO	Listening on 127.0.0.1:64969
+1536885436119	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536885437608	Marionette	INFO	Listening on port 64981
+1536885437643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885437687	Marionette	DEBUG	[6442450945] Frame script loaded
+1536885437689	Marionette	DEBUG	[6442450945] Frame script registered
+1536885437714	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536885438017	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536885438352	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885438438	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885440530	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885440750	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885440752	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885440769	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885440784	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885440786	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885443801	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885444020	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885444023	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885444279	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885444399	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885444442	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885444847	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885444850	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885445353	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885445451	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885446948	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885464774	geckodriver	INFO	Listening on 127.0.0.1:65109
+1536885467902	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536885469511	Marionette	INFO	Listening on port 65121
+1536885469937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885469974	Marionette	DEBUG	[6442450945] Frame script loaded
+1536885469983	Marionette	DEBUG	[6442450945] Frame script registered
+1536885470005	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536885470224	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536885470497	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885470504	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885472621	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885472882	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885472884	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885472900	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885472916	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885472918	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885475930	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885476255	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885476258	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885476512	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885476616	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885476684	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885477012	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885477013	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885477582	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885477662	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+[Parent 21468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 15172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+[Child 16824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885517377	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885517565	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885517617	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885517908	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885517911	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885518298	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885518402	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885519801	Marionette	DEBUG	[6442450953] Frame script loaded
+1536885519801	Marionette	DEBUG	[6442450953] Frame script registered
+1536885520023	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885522255	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885645358	geckodriver	INFO	Listening on 127.0.0.1:49269
+1536885648467	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536885650016	Marionette	INFO	Listening on port 49282
+1536885650481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885650510	Marionette	DEBUG	[6442450945] Frame script loaded
+1536885650512	Marionette	DEBUG	[6442450945] Frame script registered
+1536885650531	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536885650787	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536885651091	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885651100	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885653179	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885653651	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885653652	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885653658	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885653671	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885653673	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885656686	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885656841	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885656844	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885657107	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885657463	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885657518	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885658037	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885658047	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885658522	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885658633	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885696207	geckodriver	INFO	Listening on 127.0.0.1:49445
+1536885699289	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536885700778	Marionette	INFO	Listening on port 49457
+1536885700815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885700850	Marionette	DEBUG	[6442450945] Frame script loaded
+1536885700851	Marionette	DEBUG	[6442450945] Frame script registered
+1536885700879	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536885701172	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536885701490	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885701498	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885703594	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885704324	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885704325	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885704337	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885704349	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885704351	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885707366	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885707604	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885707608	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885707879	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885708036	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885708110	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885708574	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885708577	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885708996	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885709179	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885710691	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885771698	geckodriver	INFO	Listening on 127.0.0.1:49649
+1536885774818	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536885776362	Marionette	INFO	Listening on port 49662
+1536885776842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885776871	Marionette	DEBUG	[6442450945] Frame script loaded
+1536885776872	Marionette	DEBUG	[6442450945] Frame script registered
+1536885776888	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536885777119	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536885777444	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885777455	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885779578	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885779817	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885779819	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885779831	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885779836	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885779838	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885782851	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885783080	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885783082	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885783333	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885783399	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885783450	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885783909	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885783910	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885784340	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885784466	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler r1536885800985	Marionette	INFO	Listening on port 49797
+1536885801168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536885801198	Marionette	DEBUG	[6442450945] Frame script loaded
+1536885801199	Marionette	DEBUG	[6442450945] Frame script registered
+1536885801210	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536885801459	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536885801799	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885801806	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885803895	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885804152	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885804153	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536885804166	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885804182	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885804184	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536885807197	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885807472	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885807473	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885807694	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885807788	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885807838	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885808363	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885808369	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885808764	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885808896	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885810267	Marionette	DEBUG	[6442450953] Frame script loaded
+1536885810268	Marionette	DEBUG	[6442450953] Frame script registered
+1536885810491	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885811215	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885813307	Marionette	DEBUG	[6442450956] Frame script loaded
+1536885813308	Marionette	DEBUG	[6442450956] Frame script registered
+1536885813529	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885813588	Marionette	DEBUG	[6442450959] Frame script loaded
+1536885813595	Marionette	DEBUG	[6442450959] Frame script registered
+1536885813820	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885815787	Marionette	DEBUG	[6442450962] Frame script loaded
+1536885815787	Marionette	DEBUG	[6442450962] Frame script registered
+1536885816001	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885816068	Marionette	DEBUG	[6442450965] Frame script loaded
+1536885816076	Marionette	DEBUG	[6442450965] Frame script registered
+1536885816306	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 14084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+[Parent 8268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9972, Chrome_ChildThread] WARNING
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x17002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+d=1
+1536885842106	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885842352	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885842355	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536885842597	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885842677	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885842741	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885843365	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885843375	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885843803	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885843926	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536885845342	Marionette	DEBUG	[6442450953] Frame script loaded
+1536885845343	Marionette	DEBUG	[6442450953] Frame script registered
+1536885845572	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885847675	Marionette	DEBUG	[6442450956] Frame script loaded
+1536885847676	Marionette	DEBUG	[6442450956] Frame script registered
+1536885847905	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536885849618	Marionette	DEBUG	[6442450959] Frame script loaded
+1536885849620	Marionette	DEBUG	[6442450959] Frame script registered
+1536885849846	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 21964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 352, Chr[Parent 21964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Child 21960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21960, Chrome_[Parent 21964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s1536885868533	Marionette	INFO	Stopped listening on port 50091
+[GPU 13300, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536886014887	geckodriver	INFO	Listening on 127.0.0.1:50603
+1536886017988	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536886019823	Marionette	INFO	Listening on port 50616
+1536886020043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536886020081	Marionette	DEBUG	[6442450945] Frame script loaded
+1536886020088	Marionette	DEBUG	[6442450945] Frame script registered
+1536886020103	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536886020416	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536886020710	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886020720	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886022784	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886023184	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886023184	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886023190	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886023197	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886023199	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886026208	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886026469	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886026471	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886026735	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886026839	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886026919	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886027421	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886027423	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886027886	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886028078	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886029444	Marionette	DEBUG	[6442450953] Frame script loaded
+1536886029445	Marionette	DEBUG	[6442450953] Frame script registered
+1536886029669	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 13868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d 344, Chrome_ChildThread] WARNING: pipe error: 109[Parent 13868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 75441536886035136	Marionette	INFO	Stopped listening on port 50616
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536886037798	geckodriver	INFO	Listening on 127.0.0.1:50742
+1536886040915	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536886042564	Marionette	INFO	Listening on port 50755
+1536886042940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536886042996	Marionette	DEBUG	[6442450945] Frame script loaded
+1536886042998	Marionette	DEBUG	[6442450945] Frame script registered
+1536886043012	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536886043271	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536886043539	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886043659	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886045770	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886046767	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886046767	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886046771	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886046783	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886046785	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886049798	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886049988	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886049989	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886050219	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886050286	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886050346	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886050825	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886050828	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886051241	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886051388	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886052771	Marionette	DEBUG	[6442450953] Frame script loaded
+1536886052772	Marionette	DEBUG	[6442450953] Frame script registered
+1536886053000	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 20488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20200, Chrome_C[Parent 20488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Parent 20488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20872, Chrome_ChildThread] WARNING: pipe error: 109: file z1536886063548	Marionette	INFO	Stopped listening on port 50755
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536886113435	geckodriver	INFO	Listening on 127.0.0.1:50953
+1536886116511	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536886117996	Marionette	INFO	Listening on port 50966
+1536886118053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536886118083	Marionette	DEBUG	[6442450945] Frame script loaded
+1536886118089	Marionette	DEBUG	[6442450945] Frame script registered
+1536886118108	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536886118414	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536886118729	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886118739	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886119807	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886120071	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886120071	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886120078	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886120089	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886120091	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886123104	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886123338	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886123341	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886123589	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886123650	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886123694	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886124287	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886124288	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886124686	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886124805	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886126143	Marionette	DEBUG	[6442450953] Frame script loaded
+1536886126143	Marionette	DEBUG	[6442450953] Frame script registered
+1536886126372	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 6476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 21716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+[Parent 6476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17128, Chrome_ChildThread]
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x17002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+tId_proceed=1
+1536886173688	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886173907	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886173910	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886174172	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886174323	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886174366	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886174676	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886174680	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886175091	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886175169	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886176520	Marionette	DEBUG	[6442450953] Frame script loaded
+1536886176520	Marionette	DEBUG	[6442450953] Frame script registered
+1536886176751	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 12396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 14512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+[Parent 12396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x17002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+rn.edu/myAccount/dashboard.htm
+1536886199916	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886200175	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886200272	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886200337	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886200824	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886200828	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886201247	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886201365	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886202852	Marionette	DEBUG	[6442450953] Frame script loaded
+1536886202853	Marionette	DEBUG	[6442450953] Frame script registered
+1536886203077	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 10336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 21888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+[Parent 10336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886231038	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886231040	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886234054	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886234264	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886234267	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886234495	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886234598	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886234648	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886235113	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886235115	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886235510	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886235631	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+[Parent 10064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2812, Chr[Parent 10064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536886547127	Marionette	INFO	Stopped listening on port 51451
+[GPU 21228, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886350733	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886351802	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886352011	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886352012	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886352017	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886352027	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886352029	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886355043	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886355284	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886355286	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886355523	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886355581	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886355658	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886356093	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886356097	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886356473	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886356590	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886358636	Marionette	DEBUG	[6442450953] Frame script loaded
+1536886358641	Marionette	DEBUG	[6442450953] Frame script registered
+1536886361481	Marionette	DEBUG	[6442450956] Frame script loaded
+1536886361483	Marionette	DEBUG	[6442450956] Frame script registered
+1536886364311	Marionette	DEBUG	[6442450959] Frame script loaded
+1536886364317	Marionette	DEBUG	[6442450959] Frame script registered
+1536886366643	Marionette	DEBUG	[6442450962] Frame script loaded
+1536886366646	Marionette	DEBUG	[6442450962] Frame script registered
+1536886563575	geckodriver	INFO	Listening on 127.0.0.1:52428
+1536886566669	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1536886568164	Marionette	INFO	Listening on port 52441
+1536886568199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536886568244	Marionette	DEBUG	[6442450945] Frame script loaded
+1536886568269	Marionette	DEBUG	[6442450945] Frame script registered
+1536886568339	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536886568613	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536886568905	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886568913	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886569975	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886570208	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886570210	Marionette	DEBUG	[6442450945] Received DOM event unload for https://neuidmsso.neu.edu/cas-server/login?service=https%3A%2F%2Fneuidmsso.neu.edu%2Fidp%2FAuthn%2FExtCas%3Fconversation%3De1s1&entityId=https%3A%2F%2Fnucareers.northeastern.edu%2Fshibboleth#login
+1536886570225	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886570248	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886570250	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://neuidmsso.neu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1&_eventId_proceed=1
+1536886573264	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886573467	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886573470	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886573736	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886573803	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886573856	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886574181	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886574185	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886574562	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886574697	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+[Parent 20204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22116, Chrome_Chi[Parent 20204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 22216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x17002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+[Parent 20204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ard.htm
+1536886636883	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886637136	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886637223	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886637280	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886637715	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886637718	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886638168	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886638283	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886639687	Marionette	DEBUG	[6442450953] Frame script loaded
+1536886639687	Marionette	DEBUG	[6442450953] Frame script registered
+1536886639915	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536886642095	Marionette	DEBUG	[6442450956] Frame script loaded
+1536886642097	Marionette	DEBUG	[6442450956] Frame script registered
+1536886642316	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536886644347	Marionette	DEBUG	[6442450959] Frame script loaded
+1536886644349	Marionette	DEBUG	[6442450959] Frame script registered
+1536886644568	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536886646796	Marionette	DEBUG	[6442450962] Frame script loaded
+1536886646797	Marionette	DEBUG	[6442450962] Frame script registered
+1536886647020	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 20700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 4472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+[Parent 20700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 151: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x170001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 353: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300003,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x17002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+direct/SSO?execution=e1s1&_eventId_proceed=1
+1536886714988	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886715475	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886715481	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/dashboard.htm
+1536886715734	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886715854	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886715921	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886716333	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886716335	Marionette	DEBUG	[6442450945] Received DOM event unload for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886716863	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886716968	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://nucareers.northeastern.edu/myAccount/co-op/jobs.htm
+1536886718327	Marionette	DEBUG	[6442450953] Frame script loaded
+1536886718333	Marionette	DEBUG	[6442450953] Frame script registered
+1536886718557	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536886720632	Marionette	DEBUG	[6442450956] Frame script loaded
+1536886720636	Marionette	DEBUG	[6442450956] Frame script registered
+1536886720865	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536886722907	Marionette	DEBUG	[6442450959] Frame script loaded
+1536886722908	Marionette	DEBUG	[6442450959] Frame script registered
+1536886723145	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536886725363	Marionette	DEBUG	[6442450962] Frame script loaded
+1536886725364	Marionette	DEBUG	[6442450962] Frame script registered
+1536886725597	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 12932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17684, Chrome_ChildThread] WARNING:[Parent 12932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[Con/ihild pc_c10808hann, Chreome_Chill_win.cdThrc, lead] ine WARNI346
+NG: pipe [Chierld 2ro1140r: 109, Ch: filerome z:/_ChibuilldThd/build/srearc/id] Wpc/chARNIromiNG: pum/sipe errc/cror: 1hrom0e/co9: fimmole z:n/ipc_channel_win.cc, line 346
+[Child 10808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Parent 12932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15920, Chrome_C1536886734734	Marionette	INFO	Stopped listening on port 53123
+[GPU 19536, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
